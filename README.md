@@ -9,7 +9,7 @@ https://vivek7412.github.io/OCTANET_OCTOBER/
 <b>Screenshot uploaded</b>
 
 
-<img width="948" alt="Screenshot 2024-01-08 215705" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/83bb1066-bcbd-48e6-9f95-e7f76525bdf5">
-<img width="956" alt="Screenshot 2024-01-08 215655" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/6d1f8ba6-cf60-48e6-9872-c580faf1bd65">
-<img width="949" alt="Screenshot 2024-01-08 215526" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/dd75207b-8e1b-499a-bdcd-1b1a664041cd">
-<img width="936" alt="Screenshot 2024-01-08 215716" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/18aa630a-7d1f-40c7-95e4-c22afeb2bfbe">
+<img width="949" alt="Screenshot 2024-01-08 215526" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/fd9f1d2a-c427-4fed-bfca-01e792487e67">
+<img width="956" alt="Screenshot 2024-01-08 215655" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/47f3e0d0-611c-4564-8619-b986d5570758">
+<img width="948" alt="Screenshot 2024-01-08 215705" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/d7052de4-4b1d-4fca-b0e5-039f371da089">
+<img width="936" alt="Screenshot 2024-01-08 215716" src="https://github.com/Vivek7412/OCTANET_OCTOBER/assets/107322607/8f9cbe9c-5f83-411b-a2e3-1d4ba4076d70">
